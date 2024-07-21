@@ -22,7 +22,7 @@ To run this project, you need a web server with PHP support (e.g., Apache, Nginx
     git clone https://github.com/mohit-jethwani49/Push-down-automata.git
     ```
 
-2. Ensure that your web server is set up and running. Place the `thoc.php` file in the web server's root directory or any directory you prefer.
+2. Ensure that your web server is set up and running. Place the `index.php` file in the web server's root directory or any directory you prefer.
 
 3. Open your web browser and navigate to the location where you placed `index.php`. For example:
     ```
