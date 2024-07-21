@@ -24,14 +24,14 @@ To run this project, you need a web server with PHP support (e.g., Apache, Nginx
 
 2. Ensure that your web server is set up and running. Place the `thoc.php` file in the web server's root directory or any directory you prefer.
 
-3. Open your web browser and navigate to the location where you placed `thoc.php`. For example:
+3. Open your web browser and navigate to the location where you placed `index.php`. For example:
     ```
-    http://localhost/thoc.php
+    http://localhost/index.php
     ```
 
 ## Usage
 
-1. Open the `thoc.php` file in your web browser.
+1. Open the `index.php` file in your web browser.
 
 2. Enter the PDA transition table in the provided format. The format should include states, input symbols, stack symbols, and transitions.
 
